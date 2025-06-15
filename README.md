@@ -49,5 +49,27 @@ Popup view for images
 Easy to use and clean look
 Captions and arrows for image navigation
 
+PROJECT-3 MusicPlayer
 
+A basic Music Player built using HTML, CSS, and JavaScript — all in one file!
+This player supports Play, Pause, and Stop functions with a clean, minimal UI.
+
+Features:
+
+Play / Pause / Stop controls
+Simple and responsive layout
+Supports both online and local audio files
+No external libraries needed
+
+Tech Stack:
+
+HTML
+CSS
+JavaScript
+
+How to Use:
+Clone or download the repository.
+Open index.html in your browser.
+Replace the src in the <audio> tag with your audio file (or online URL).
+Click play and enjoy the music!
 
